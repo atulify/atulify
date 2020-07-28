@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Atul Sharma, Senior Engineer @ ![Shopify](https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg)
+## Atul Sharma, Senior Engineer @ ![Shopify](https://www.logosvgpng.com/wp-content/uploads/2018/03/shopify-logo-vector.png)
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -13,16 +13,18 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- 👨🏽‍💻 I’m currently working at ![Shopify](https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg)
+Making Commerce Better for Everyone @ ![Shopify](https://www.logosvgpng.com/wp-content/uploads/2018/03/shopify-logo-vector.png)
+
+- 👨🏽‍💻 Senior Engineer x Shop Pay Installments
 
 **Languages and Tools:** 
 
 <!-- Your github readme stats
+You can use this api: https://github.com/anuraghazra/github-readme-stats
+-->
 <p>
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code>  
+  <br />
+  <code><img width="10%" src="https://rubyonrails.org/images/rails-logo.svg"></code>  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <br />
