@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Atul Sharma, Senior Engineer @ Shopify
+## Atul Sharma, Software Engineer
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -11,12 +11,15 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <!-- Talking about you -->
+**Currently**
+<p>
+  <br/>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg"> 
+</p>
+
 **About Me:**
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg"></code>  
-Making Commerce Better for Everyone
-
-- 👨🏽‍💻 Senior Engineer x Shop Pay Installments
+👨🏽‍💻 Senior Engineer x Shop Pay Installments
 
 **Languages and Tools:** 
 
