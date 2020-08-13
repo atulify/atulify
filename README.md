@@ -13,7 +13,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-Making Commerce Better for Everyone @ Shopify
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg"></code>  
+Making Commerce Better for Everyone
 
 - 👨🏽‍💻 Senior Engineer x Shop Pay Installments
 
