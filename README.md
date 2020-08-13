@@ -17,10 +17,8 @@ You can use the website to generate badges: https://shields.io/
   <img width="10%" src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg"> 
 </p>
 
-**About Me:**
-
 👨🏽‍💻 Senior Engineer x Shop Pay Installments
-
+<br/>
 **Languages and Tools:** 
 
 <!-- Your github readme stats
