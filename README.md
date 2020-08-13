@@ -18,7 +18,9 @@ You can use the website to generate badges: https://shields.io/
 </p>
 
 👨🏽‍💻 Senior Engineer x Shop Pay Installments
-<br/>
+
+<p><br/></p>
+
 **Languages and Tools:** 
 
 <!-- Your github readme stats
