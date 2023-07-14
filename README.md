@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
   <img width="10%" src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg"> 
 </p>
 
-👨🏽‍💻 Senior Engineer x Shop Pay Installments
+👨🏽‍💻 Staff Engineer x Shop Pay Installments
 
 <p><br/></p>
 
