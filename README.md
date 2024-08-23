@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
   <img width="10%" src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg"> 
 </p>
 
-👨🏽‍💻 Staff Engineer x Shop Pay Installments
+👨🏽‍💻 Staff Engineer x Shop Promise
 
 <p><br/></p>
 
@@ -28,16 +28,12 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <br />
-  <code><img width="10%" src="https://rubyonrails.org/images/rails-logo.svg"></code>  
+  <code><img width="10%" src="https://www.logo.wine/a/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.svg"></code>  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <br />
 </p>
